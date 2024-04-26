@@ -49,5 +49,6 @@
     - Write a C++ program to print the sum of all odd digits present in the number.
       - For example: 
         - N = 12583, sum = 1 + 5 + 3 = 9
-15.**Fibonacci series**
+   
+15. **Fibonacci series**
     - Write a C program to print Fibonacci series upto N.
