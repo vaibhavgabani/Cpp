@@ -8,9 +8,9 @@ int main(){
         float pop2014 , pop2015 , pop2016 , pop2017 , pop2018 ;
         pop2014 = pop2013 + (pop2013 * 10) / 100;
         pop2015 = pop2014 - (pop2014 * 10) / 100;
-        pop2016 = pop2015 + (pop2013 * 11.23) / 100;
+        pop2016 = pop2015 + (pop2015 * 11.23) / 100;
         pop2017 = pop2016;
-        pop2018 = pop2017 - (pop2013 * 4.2) / 100;
+        pop2018 = pop2017 - (pop2017 * 4.2) / 100;
         cout<<"Populaction of 2018 is : "<<pop2018;
     }
      else {
