@@ -43,7 +43,7 @@ This repository contains solutions to various programming problems implemented i
 13. **Count Total Number of Vowels and Consonants in a Given String**:
     - A C++ program to count the total number of vowels and consonants in a given string.
 
-14. **Perform Matrix Operations on a 2D Array (4 X 3)**:
+14. **Perform Matrix Operations on a 2D Array (3 X 3)**:
     - A C++ program to perform matrix operations (addition, subtraction, multiplication, transpose) on a 2D array.
 
 15. **Find the Largest Element Row-wise and Column-wise in a 2D Array**:
