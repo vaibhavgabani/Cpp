@@ -1,4 +1,5 @@
-# Programming Practice Exercises
+# C++ Programming Practice Problems - Structure & UDF (User Define Functions)
+This repository contains solutions to various programming problems implemented in C++.
 
 ## 1. Census Structure and Sorting
 
