@@ -1,3 +1,4 @@
+# NOTE : File and command line are on hold. 
 # C++ Programming Practice Problems - Ponter, File Handling & CLA (Command Line Arguments)
 This repository contains solutions to various programming problems implemented in C++.
 
