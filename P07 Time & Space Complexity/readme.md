@@ -4,7 +4,7 @@ This repository contains solutions to various programming problems implemented i
 
 ## Problem 1: Find the Duplicate Element
 
-**Given:** An array `arr` of size `n+1` containing integers from 1 to `n`. One element appears twice.
+**Given:** An array `arr` of size `N` containing integers from 1 to `N`. One element appears twice.
 
 **Task:** Find the duplicate element in the array.
 
