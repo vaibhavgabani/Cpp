@@ -8,6 +8,11 @@ This repository contains solutions to various programming problems implemented i
 
 **Task:** Find the duplicate element in the array.
 
+**Method : 1** Slow (High Time Complexity)
+
+**Method : 2** Space Inefficient (High Space Complexity)
+
+**Method : 3** Optimal Solution (Fast & Space-Saving)
 
 
 
