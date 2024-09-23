@@ -10,5 +10,8 @@ int main() {
     cin.getline(str, size);  
     
     cout<<str;
+    // we can use both methord to print
+    size = strlen(str);
+    cout.write(str,size);
     return 0;
 }
