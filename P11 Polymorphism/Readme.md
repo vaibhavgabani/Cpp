@@ -1,32 +1,59 @@
+# P11: Polymorphism in C++
 
-# Polymorphism in C++
+This directory contains C++ code examples that demonstrate the concept of **Polymorphism**, a fundamental principle of Object-Oriented Programming (OOP). Polymorphism allows objects of different classes to be treated as objects of a common base class, enabling more flexible and reusable code.
 
-This repository contains examples and explanations of polymorphism in C++.
+## Key Concepts
 
-## What is Polymorphism?
+### 1. Compile-Time Polymorphism (Static Polymorphism)
+- Achieved through **function overloading** and **operator overloading**.
+- Behavior is resolved at compile time.
 
-Polymorphism is a fundamental concept in object-oriented programming that allows objects of different types to be treated as objects of a common super type. It is the ability of different objects to respond to the same function call in different ways.
+### 2. Run-Time Polymorphism (Dynamic Polymorphism)
+- Achieved through **inheritance** and **virtual functions**.
+- Behavior is resolved at runtime using **vtable** and **vptr** mechanisms.
 
-## Types of Polymorphism
+## Code Structure
 
-1. **Compile-time Polymorphism** (or Static Polymorphism)
-   - Achieved using function overloading and operator overloading.
-   - **Function Overloading:** Functions with the same name but different parameters.
-   - **Operator Overloading:** Operators have different implementations depending on their arguments.
-   
-2. **Run-time Polymorphism** (or Dynamic Polymorphism)
-   - Achieved using inheritance and virtual functions.
-   - **Inheritance:** A derived class inherits properties and behavior from a base class.
-   - **Virtual Functions:** Functions in a base class that can be overridden in derived classes to provide specific implementations.
+The code in this directory includes examples of:
 
-## Function Overloading
+- **Function Overloading**: Multiple functions with the same name but different parameter lists.
+- **Operator Overloading**: Custom behavior for operators like `+`, `-`, etc.
+- **Inheritance**: Base and derived class relationships.
+- **Virtual Functions**: Enabling runtime polymorphism.
+- **Abstract Classes and Interfaces**: Demonstrating pure virtual functions.
 
-Function overloading allows multiple functions to have the same name but operate on different types or numbers of parameters. This enables a single function name to work in different ways based on arguments.
+## How to Run
 
-## Operator Overloading
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vaibhavgabani/Cpp.git
+   cd Cpp/P11%20Polymorphism
+   ```
 
-Operator overloading allows you to redefine the way operators work for user-defined types. For example, you can define how the `+` operator works for a class representing complex numbers.
+2. Compile the code using a C++ compiler like `g++`:
+   ```bash
+   g++ main.cpp -o main
+   ```
 
-## Virtual Functions
+3. Run the executable:
+   ```bash
+   ./main
+   ```
 
-Virtual functions enable a base class to declare functions that can be overridden in any derived class. This allows derived classes to provide specific implementations for these functions. When a base class pointer points to a derived class object, the appropriate function is called based on the object type, not the pointer type.
+## Example Output
+
+The examples will demonstrate:
+- How function overloading works in practice.
+- Using operator overloading to define custom behavior.
+- Overriding base class methods in derived classes using virtual functions.
+- Leveraging abstract classes for enforcing method implementation.
+
+## Learning Outcomes
+
+By studying and running the code in this directory, you will:
+- Understand the difference between static and dynamic polymorphism.
+- Learn how to implement polymorphism in C++.
+- Appreciate the importance of polymorphism in creating extensible and maintainable software.
+
+---
+Feel free to explore, modify, and learn from the examples provided! If you encounter any issues or have suggestions for improvement, feel free to open an issue or contribute to the repository.
