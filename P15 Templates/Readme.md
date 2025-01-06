@@ -83,11 +83,6 @@ By exploring these examples, you will:
 - Gain insights into template specialization and its applications.
 - Develop reusable and type-safe code.
 
-## References
-
-- [C++ Templates Documentation](https://cplusplus.com/doc/oldtutorial/templates/)
-- [GeeksforGeeks: Templates in C++](https://www.geeksforgeeks.org/templates-cpp/)
-
 ---
 Feel free to experiment with the examples and adapt them to your needs. If you encounter any issues or have ideas for improvement, don't hesitate to contribute to the repository or open an issue.
 
