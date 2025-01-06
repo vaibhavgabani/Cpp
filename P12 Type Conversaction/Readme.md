@@ -64,10 +64,5 @@ By studying and running the code in this directory, you will:
 - Appreciate the trade-offs between different casting approaches.
 - Identify potential pitfalls, such as data loss or undefined behavior.
 
-## References
-
-- [C++ Documentation on Type Conversion](https://cplusplus.com/doc/tutorial/typecasting/)
-- [GeeksforGeeks: Type Conversion in C++](https://www.geeksforgeeks.org/type-conversion-in-c/)
-
 ---
 Feel free to explore, modify, and learn from the examples provided! If you encounter any issues or have suggestions for improvement, feel free to open an issue or contribute to the repository.
