@@ -63,11 +63,6 @@ By studying and running the code in this directory, you will:
 - Ensure your code is robust and resource-safe in the face of runtime errors.
 - Develop practices to manage error handling in a clean and maintainable way.
 
-## References
-
-- [C++ Documentation on Exception Handling](https://cplusplus.com/doc/tutorial/exceptions/)
-- [GeeksforGeeks: Exception Handling in C++](https://www.geeksforgeeks.org/exception-handling-c/)
-
 ---
 Feel free to explore, modify, and learn from the examples provided! If you encounter any issues or have suggestions for improvement, feel free to open an issue or contribute to the repository.
 
